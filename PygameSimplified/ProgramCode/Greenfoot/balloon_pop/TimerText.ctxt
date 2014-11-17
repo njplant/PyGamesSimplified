@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=TimerText()
+comment2.params=text
+comment2.target=TimerText(java.lang.String)
+comment3.params=text
+comment3.target=void\ setText(java.lang.String)
+numComments=4

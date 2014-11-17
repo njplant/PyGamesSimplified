@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ firedArrow\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=dir
+comment1.target=firedArrow(int)
+comment2.params=
+comment2.target=void\ collide_with_ballon()
+comment3.params=
+comment3.target=void\ of_screen()
+numComments=4
